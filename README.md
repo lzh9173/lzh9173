@@ -10,6 +10,7 @@
 ![Go](https://skillicons.dev/icons?i=go)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![SQL](https://skillicons.dev/icons?i=sqlite)
+![Postgres](https://skillicons.dev/icons?i=postgres)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 #### 🧰 Frameworks & Tools
